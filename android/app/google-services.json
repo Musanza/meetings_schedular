@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "158003833341",
+    "project_id": "pc-api-5518905543325100771-114",
+    "storage_bucket": "pc-api-5518905543325100771-114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158003833341:android:e092530804a86da308d194",
+        "android_client_info": {
+          "package_name": "com.example.meetings_scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158003833341-aaf7thkm2mj2ei70clnoei71dm896efe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA23tRhYmY4UlyBvqigpRQnT081GXtdym8"
+        },
+        {
+          "current_key": "AIzaSyCDrMrMRZMdjAcgMIYKpTUaKJYfGu8Dcms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158003833341-aaf7thkm2mj2ei70clnoei71dm896efe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "158003833341-2e6jegc1qgumentk75sk19bs7umadujp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ryon.ryonrealestate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158003833341:android:e470a868f423083a08d194",
+        "android_client_info": {
+          "package_name": "com.ryon.ryonrealestate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158003833341-220nqlme2kgssk60pj1dvenc3gjvs2cm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ryon.ryonrealestate",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "158003833341-aaf7thkm2mj2ei70clnoei71dm896efe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA23tRhYmY4UlyBvqigpRQnT081GXtdym8"
+        },
+        {
+          "current_key": "AIzaSyCDrMrMRZMdjAcgMIYKpTUaKJYfGu8Dcms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158003833341-aaf7thkm2mj2ei70clnoei71dm896efe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "158003833341-2e6jegc1qgumentk75sk19bs7umadujp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ryon.ryonrealestate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158003833341:android:a1e66fb1718d94a208d194",
+        "android_client_info": {
+          "package_name": "ryon.com.ryon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158003833341-23odte37av6032js9ua1s5n28i1hc1sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ryon.com.ryon_app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "158003833341-6gq40o4gmke3pp34rnal89u6on0cqo1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ryon.com.ryon_app",
+            "certificate_hash": "836c0c36ec337581c1d5749eb4a961ecb2279d37"
+          }
+        },
+        {
+          "client_id": "158003833341-cg4ddceg7ulpr8m1bsmgafkvmeega60g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ryon.com.ryon_app",
+            "certificate_hash": "d14603eab5e25baeb1930481c321197392e23126"
+          }
+        },
+        {
+          "client_id": "158003833341-aaf7thkm2mj2ei70clnoei71dm896efe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA23tRhYmY4UlyBvqigpRQnT081GXtdym8"
+        },
+        {
+          "current_key": "AIzaSyCDrMrMRZMdjAcgMIYKpTUaKJYfGu8Dcms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158003833341-aaf7thkm2mj2ei70clnoei71dm896efe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "158003833341-2e6jegc1qgumentk75sk19bs7umadujp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ryon.ryonrealestate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
