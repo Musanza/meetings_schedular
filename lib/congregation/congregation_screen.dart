@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:meetings_scheduler/auth/profile_screen.dart';
+import 'package:meetings_scheduler/congregation/scheduler_screen.dart';
 
 class CongregationScreen extends StatefulWidget {
   const CongregationScreen({Key? key}) : super(key: key);
@@ -296,6 +297,18 @@ class _CongregationScreenState extends State<CongregationScreen> {
                   ],
                 ),
               ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) => const SchedulerScreen(),
+            ),
+          );
+        },
+        backgroundColor: Colors.blue,
+        child: const Icon(Icons.add, color: Colors.white),
       ),
     );
   }

@@ -102,9 +102,10 @@ class _AddPublisherScreenState extends State<AddPublisherScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-          title: const Text('Publisher Details',
-              style: TextStyle(fontWeight: FontWeight.bold)),
-          centerTitle: true),
+        title: const Text('Publisher Details',
+            style: TextStyle(fontWeight: FontWeight.bold)),
+        centerTitle: true,
+      ),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
         child: SingleChildScrollView(
